@@ -164,6 +164,6 @@ Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
 
 <div align="center">
 
- [Ast]https://github.com/astlyx tarafından ❤️ ile yapıldı
+ Ast tarafından ❤️ ile yapıldı
 
 </div>
