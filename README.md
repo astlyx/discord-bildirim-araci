@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="bildirimaracıbanner.png" alt="bildirim aracı banner" width="1080">
+</p>
+
 # 🔔 Discord Bildirim Aracı
 
 > Belirlediğin Discord kanallarını anahtar kelimeler için izleyen ve [ntfy.sh](https://ntfy.sh) üzerinden telefonuna anlık bildirim gönderen masaüstü uygulaması.
