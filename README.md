@@ -63,10 +63,7 @@ cd discord-bildirim-araci
 # 2. Bağımlılıkları kur
 pip install -r requirements.txt
 
-# 3. Örnek config'i kopyala
-cp config.json.example config.json
-
-# 4. Çalıştır
+# 3. Çalıştır
 python main.py
 ```
 
